@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/arrr1/arrr1.iml" filepath="$PROJECT_DIR$/arrr1/arrr1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa1/dsa1.iml" filepath="$PROJECT_DIR$/dsa1/dsa1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dsa1/oddevenpos/oddevenpos.iml" filepath="$PROJECT_DIR$/dsa1/oddevenpos/oddevenpos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/patterns.iml" filepath="$PROJECT_DIR$/.idea/patterns.iml" />
+    </modules>
+  </component>
+</project>
